@@ -1,13 +1,13 @@
 /* style.css */
 
 body {
-    background-color: white;
+    background-color: yellow;
 }
 
 h1 {
 	color: black;
 	font-family: Arial, sans-serif;
-	font-size: 46px;
+	font-size: 50px;
 	font-weight: bold;
 	text-align: center;
 	text-transform: uppercase;
